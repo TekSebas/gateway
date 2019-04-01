@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.proyectomicroservicio.test",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.proyectomicroservicio.test",
+    "packageFolder": "com/proyectomicroservicio/test",
+    "serverPort": "8084",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmM0YmFjMmNjNTk1YmM0NmNmMmQ1YmZmNjg4MDEzMGM1MTI2ZWIyMzM0N2ViMjgxMGU3MTY4N2ZjODg3NjE4M2UxZTU5Y2VlMDA5NDJjZTQ5OGQ5N2IwMDM0MzVkMzFmNjQ5MmE1MzlmMjA3ZjgzOGYxMTNhNWQyYmQ3MjZjMzM=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es"
+    ]
+  }
+}
