@@ -1,7 +1,3 @@
-{
-    "*": {
-        "target": "http://localhost:8084",
-        "secure": false,
-        "loglevel": "debug"
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:07698b3d84008c22602930ae5f37b336c946e5b1833762ad17658928a8d22c7b
+size 117
